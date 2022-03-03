@@ -1,8 +1,8 @@
 import React from 'react'
-import DiceCeleb from '../components/images/CelebDice.png'
-import DiceGlyph from '../components/images/Diceglyph.jpeg'
-import CryptoCeleb from '../components/images/CryptoCeleb.jpeg'
-import DiceFastFood from '../components/images/DiceFood.jpeg'
+import DiceCeleb from '../components/images/CelebDice.webp'
+import DiceGlyph from '../components/images/Diceglyph.webp'
+import CryptoCeleb from '../components/images/CryptoCeleb.webp'
+import DiceFastFood from '../components/images/DiceFood.webp'
 function Slids() {
     return (
         <div className='m-4'>

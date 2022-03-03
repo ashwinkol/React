@@ -1,5 +1,5 @@
 import React from 'react'
-import myImage from '../components/images/celeb.jpeg'
+import myImage from '../components/images/celeb.webp'
 import Founders from './Founders'
 import Projects from './Projects'
 import Slids from './Slids'

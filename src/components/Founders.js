@@ -1,6 +1,6 @@
 import React from 'react'
-import Founder from '../components/images/FounderBW.jpg'
-import CoFounder from '../components/images/Co-founder.jpg'
+import Founder from '../components/images/FounderBW.webp'
+import CoFounder from '../components/images/CoFounderBW.webp'
 
 function Founders() {
     return (
